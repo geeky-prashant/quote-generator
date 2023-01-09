@@ -42,7 +42,7 @@ git clone https://github.com/geeky-prashant/quote-generator.git
 
 ### Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
+If you want to contact me you can reach me at [LinkedIn](https://linkedin.com/in/geekyprashant/).
 
 ### License
 
